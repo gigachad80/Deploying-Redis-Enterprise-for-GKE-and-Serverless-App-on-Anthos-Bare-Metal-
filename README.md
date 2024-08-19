@@ -1,4 +1,4 @@
-# Deploying-Redis-Enterprise-for-GKE-and-Serverless-App-on-Anthos-Bare-Metal-
+# Deploying-Redis-Enterprise-for-GKE-and-Serverless-App-on-Anthos-Bare-Metal
 Answer of Qwiklab Lab (11th Feb 2024)
 
 Still working (19th Aug 2024)
